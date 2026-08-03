@@ -1,0 +1,48 @@
+/* Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+body {
+  font-family: "Inter", sans-serif;
+  background: #f8fafc;
+  color: #111827;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* List */
+ul {
+  list-style: none;
+}
+
+/* Button */
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+/* Input */
+input {
+  outline: none;
+  border: none;
+  font-family: inherit;
+}
+
+/* Image */
+img {
+  width: 100%;
+  display: block;
+}
