@@ -117,8 +117,8 @@ porter-clone/
 │       ├── models/      ← Pydantic schemas per service
 │       ├── routes/      ← auth.py, bookings.py, drivers.py, payments.py
 │       └── utils/       ← auth.py (JWT/hashing), matching.py (nearest-driver logic)
-├── docs/
-│   └── ARCHITECTURE.md  ← this file
+├── backend/
+│   └── architecture.md  ← this file
 └── README.md
 ```
 
